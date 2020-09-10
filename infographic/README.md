@@ -48,12 +48,12 @@ When you're done with your infographic, please upload your image (after testing 
 #### Major sulci
 Your first task is to draw the major sulci (6 points each = 36 points), including:
 
-* Sylvian fissure / lateral sulcus
-* Central suclus
-* Parietooccipital sulcus
-* Intraparietal sulcus
+* Sylvian fissure / lateral sulcus (easy)
+* Central suclus (easy)
+* Parietooccipital sulcus (~easy)
+* Superior temporal sulcus (~easy)
 * Calcarine sulcus (~tricky)
-* Superior temporal sulcus
+* Intraparietal sulcus (tricky)
 
 For each sulcus you should draw a line that approximately follows the very bottom (or "*fundus*") of the sulcus, and then add a text label saying which sulcus it is. If the sulcus is branched or otherwise complicated, you can add several lines (or come up with your own way to show that). 
 
