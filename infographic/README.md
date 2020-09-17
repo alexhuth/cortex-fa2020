@@ -14,6 +14,8 @@ Your infographic will take the form of a **cortical flatmap**, an image that is 
 6. After the brain has finished loading, click the **"Choose File"** button (top left) and select your new image file.
 7. Check out how it looks!
 
+You can also watch [this short video demo](https://utexas.box.com/shared/static/10phy17792s0bfp9v6l6igqwb328d6mo.mp4) showing how the basic process of creating these infographics works.
+
 ### Editing your infographic
 You can edit your infographic image in any image editing or illustration software, as long as the result can be saved in a standard image format like PNG. Good software you might use includes [Inkscape](https://inkscape.org/) (free!), Adobe Photoshop (not free), and Adobe Illustrator (not free).
 
